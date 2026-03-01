@@ -1,3 +1,5 @@
-## Holla, Git! 
+## Welcome to Git
 
-- holla, esta bein to my guide.
+- holla,
+- que tal,from dev_me,
+- esta bein to my guide.
